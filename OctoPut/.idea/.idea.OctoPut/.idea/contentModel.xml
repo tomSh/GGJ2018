@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Tomer\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_OctoPut.-863569892.00" t="ExcludeRecursive" />
-    <e p="D:\projects\OctoPut" t="IncludeRecursive">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_OctoPut.-606807417.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -21,12 +21,12 @@
         <e p="Tray.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
-      <e p="obj" t="ExcludeRecursive" />
       <e p="OctoPut.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
       <e p="Temp" t="ExcludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
       </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

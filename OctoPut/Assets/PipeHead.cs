@@ -16,6 +16,7 @@ public class PipeHead : MonoBehaviour
 			{
 				ScoreTracker.Success();
 				GameObject.Destroy(other.gameObject);
+				gameObject.GetComponentInParent<AudioSource>().Play();
 			} else {
 				envelopeCode.InitAtStart();
 			}

@@ -43,9 +43,19 @@ public class Tray : MonoBehaviour
 				
 		}
 
+		CheckMenuOption();
+	}
+
+	private static void CheckMenuOption()
+	{
 		if (Input.GetKeyDown(KeyCode.R))
 		{
 			Application.LoadLevel(Application.loadedLevel);
+		}
+
+		if (Input.GetKeyDown(KeyCode.Escape))
+		{
+			Application.Quit();
 		}
 	}
 
